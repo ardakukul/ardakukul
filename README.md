@@ -8,7 +8,7 @@ My work combines experience in international education, university admissions, a
 
 ## Current Venture
 
-### [GOLE — Global Orientation & Learning Engine](https://getgole.com)
+### [GOLE](https://getgole.com)
 
 GOLE is an education technology platform designed to make international university admissions more accessible, transparent, and personalized.
 
